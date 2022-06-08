@@ -4,9 +4,9 @@
 </p>
 
 ## Description
-Having grown up in the '90s, Pokemon was an intimate part of my life; both as a videogame, and an anime. Like many, Pokemon occupies a very dear place in my heart, and is closely tied to feelings of nostalgia.
+Like many, Pokemon was an intimate part of my life; collecting trading cards, watching the anime, and playing the videos games. Motivated by this, in this Project, I analyse Pokemon data across the 6 Generations. 
 
-Motivated by this, in this Project, I analyse Pokemon data across the 6 Generations. I answer questions such as:
+I seek to answer questions such as:
 
 * What are the strongest Pokemons in each Generation?
 * Have Pokemons become more overpowered with each Generation?
